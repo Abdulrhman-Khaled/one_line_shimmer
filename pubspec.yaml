@@ -3,6 +3,7 @@ description: A simple one-line shimmer widget for Flutter.
 version: 1.0.0
 homepage: https://github.com/Abdulrhman-Khaled/one_line_shimmer
 repository: https://github.com/Abdulrhman-Khaled/one_line_shimmer
+issue_tracker: https://github.com/Abdulrhman-Khaled/one_line_shimmer/issues
 
 environment:
   sdk: ^3.5.4
