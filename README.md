@@ -2,7 +2,7 @@
 
 A simple and customizable one-line shimmer effect widget for Flutter apps.
 
-![Shimmer Preview](https://drive.google.com/uc?export=view&id=1JxdjRjb_coxRKf9GD9HMi9YBu3hBvnzS)
+![shimmer](https://github.com/user-attachments/assets/e149463c-ba44-4f70-9ee1-a74857dff1de)
 
 ## Features
 
