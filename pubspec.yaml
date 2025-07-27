@@ -1,0 +1,20 @@
+name: one_line_shimmer
+description: A simple one-line shimmer widget for Flutter.
+version: 1.0.0
+homepage: https://github.com/Abdulrhman-Khaled/one_line_shimmer
+repository: https://github.com/Abdulrhman-Khaled/one_line_shimmer
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
