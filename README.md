@@ -1,6 +1,6 @@
 # One Line Shimmer
 
-A simple and customizable one-line shimmer effect widget for Flutter apps.
+A lightweight and customizable one-line shimmer widget for Flutter apps, Supports custom colors, animation speed, and rounded borders.
 
 <img src="example.gif" alt="drawing" width="200"/>
 
