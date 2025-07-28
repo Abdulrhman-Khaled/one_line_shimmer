@@ -1,6 +1,10 @@
+## [1.0.2] - 2025-07-28
+
+- Nothing new just add example gif to README
+
 ## [1.0.1] - 2025-07-28
 
-- Nothing new just clarifying and improve Readme
+- Nothing new just clarifying and improve README
 
 ## [1.0.0] - 2025-07-27
 

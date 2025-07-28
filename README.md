@@ -2,7 +2,7 @@
 
 A lightweight and customizable one-line shimmer widget for Flutter apps, Supports custom colors, animation speed, and rounded borders.
 
-<img src="example.gif" alt="drawing" width="200"/>
+<img src="example.gif" width="200"/>
 
 ## Features
 
@@ -17,7 +17,7 @@ Add dependency in `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  one_line_shimmer: ^1.0.1
+  one_line_shimmer: ^1.0.2
 ```
 
 ## One Line Usage
