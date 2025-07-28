@@ -17,12 +17,12 @@ Add dependency in `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  one_line_shimmer: ^1.0.0
+  one_line_shimmer: ^1.0.1
 ```
 
 ## One Line Usage
 ```
-OneLineShimmer(width: 200, height: 20);
+OneLineShimmer(width: 200, height: 20),
 ```
 
 ## Full Usage
@@ -38,7 +38,7 @@ OneLineShimmer(
     Colors.grey.shade200,
     Colors.grey.shade100,
   ], //optional
-);
+),
 ```
 
 ## Parameters
