@@ -2,7 +2,9 @@
 
 A lightweight and customizable one-line shimmer widget for Flutter apps, Supports custom colors, animation speed, and rounded borders.
 
-<img src="example.gif" width="200"/>
+
+<img src="https://github.com/Abdulrhman-Khaled/one_line_shimmer/blob/main/example.gif" alt="example gif" width="200"/>
+
 
 ## Features
 
@@ -57,4 +59,4 @@ OneLineShimmer(
 
 ## License
 
-This project is licensed under MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under MIT License - see the [LICENSE](https://github.com/Abdulrhman-Khaled/one_line_shimmer/blob/main/LICENSE) file for details.
