@@ -23,7 +23,7 @@ dependencies:
 
 ## One Line Usage
 ```
-OneLineShimmer( width: 200, height: 20);
+OneLineShimmer(width: 200, height: 20);
 ```
 
 ## Full Usage
