@@ -1,3 +1,7 @@
+## [1.0.1] - 2025-07-28
+
+- Nothing new just clarifying and improve Readme
+
 ## [1.0.0] - 2025-07-27
 
 - 🎉 Initial release of `one_line_shimmer`.

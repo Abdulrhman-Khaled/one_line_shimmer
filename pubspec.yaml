@@ -1,6 +1,9 @@
 name: one_line_shimmer
-description: A simple one-line shimmer widget for Flutter.
-version: 1.0.0
+description: >
+  A lightweight and customizable one-line shimmer widget for Flutter apps.
+  Supports custom colors, animation speed, and rounded borders.
+
+version: 1.0.1
 homepage: https://github.com/Abdulrhman-Khaled/one_line_shimmer
 repository: https://github.com/Abdulrhman-Khaled/one_line_shimmer
 issue_tracker: https://github.com/Abdulrhman-Khaled/one_line_shimmer/issues
