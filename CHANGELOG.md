@@ -1,4 +1,4 @@
-## [1.0.2] - 2025-07-28
+## [1.0.3] - 2025-07-28
 
 - Nothing new just add example gif to README
 

@@ -18,7 +18,7 @@ Add dependency in `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  one_line_shimmer: ^1.0.2
+  one_line_shimmer: ^1.0.3
 ```
 
 ## One Line Usage
