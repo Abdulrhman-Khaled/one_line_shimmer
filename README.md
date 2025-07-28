@@ -51,3 +51,10 @@ OneLineShimmer(
 | `baseColor`     | Background color of box                        | No         |
 | `shimmerColors` | Exactly 3 shimmer gradient colors              | No         |
 
+## Author
+
+- [BodyKh](https://github.com/Abdulrhman-Khaled)
+
+## License
+
+This project is licensed under MIT License - see the [LICENSE](./LICENSE) file for details.
