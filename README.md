@@ -21,7 +21,12 @@ dependencies:
   one_line_shimmer: ^1.0.0
 ```
 
-## Usage
+## One Line Usage
+```
+OneLineShimmer( width: 200, height: 20);
+```
+
+## Full Usage
 ```
 OneLineShimmer(
   width: 200,
@@ -38,12 +43,12 @@ OneLineShimmer(
 ```
 
 ## Parameters
-| Parameter       | Description                                    |
-| --------------- | ---------------------------------------------- |
-| `width`         | Width of shimmer box                           |
-| `height`        | Height of shimmer box                          |
-| `borderRadius`  | Optional border radius                         |
-| `milliseconds`  | Animation speed in milliseconds (default: 750) |
-| `baseColor`     | Background color of box                        |
-| `shimmerColors` | Exactly 3 shimmer gradient colors              |
+| Parameter       | Description                                    | Required   |
+| --------------- | ---------------------------------------------- | ---------- |
+| `width`         | Width of shimmer box                           | Yes        |
+| `height`        | Height of shimmer box                          | Yes        |
+| `borderRadius`  | Optional border radius                         | No         |
+| `milliseconds`  | Animation speed in milliseconds (default: 750) | No         |
+| `baseColor`     | Background color of box                        | No         |
+| `shimmerColors` | Exactly 3 shimmer gradient colors              | No         |
 
